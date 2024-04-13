@@ -1,0 +1,4 @@
+hardhat/=node_modules/hardhat/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+solmate/=lib/solmate/src/
